@@ -73,6 +73,6 @@ void main()
                 visited[j] = 1;
                 enqueue(&q, j);
             } // end of if block
-        }     // end of for loop
-    }         // end of while loop
+        } // end of for loop
+    } // end of while loop
 } // end of main
