@@ -1,5 +1,4 @@
 //to perform Job Sequencing (Greedy Approach) on a given set of tasks
-// Given a set of ‘10’ jobs with their si and fi, find the optimal sequence of mutually compatible jobs using the greedy method: A = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, si = {3, 4, 5, 6, 7, 8, 9, 10, 11, 12} and fi = {5, 7, 8, 10, 11, 12, 13, 14, 15, 16}.
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h>
